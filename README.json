@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-27T10:07:37.349Z",
-    "original_repository": "0PandaDEV/awesome-unixporn",
-    "original_repository_id": 1001089497,
+    "last_updated": "2026-08-27T12:08:50.078Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1001089497,
+      "language": null,
+      "last_commit": "2025-07-24T16:07:53Z",
+      "owner": "0PandaDEV",
+      "repo": "awesome-unixporn",
+      "stars": 56
+    },
     "original_repository_sha": "f35639dee902020dd6309cd167956f144c7db8d6",
     "enhanced_repository": "enhansome/enhansome-unixporn",
     "enhanced_repository_description": null,
