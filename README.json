@@ -1,15 +1,29 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T11:39:02.332Z",
+    "last_updated": "2026-08-29T05:06:23.691Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The collection of dotfiles from r/unixporn.",
+      "homepage": null,
       "id": 1001089497,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-07-24T16:07:53Z",
+      "open_issues": 0,
       "owner": "0PandaDEV",
       "repo": "awesome-unixporn",
-      "stars": 56
+      "stars": 56,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "dotfiles",
+        "dotfiles-linux",
+        "dotfiles-macos",
+        "unix",
+        "unixporn"
+      ]
     },
     "original_repository_sha": "f35639dee902020dd6309cd167956f144c7db8d6",
     "enhanced_repository": "enhansome/enhansome-unixporn",
