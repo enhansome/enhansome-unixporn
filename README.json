@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-03T05:35:29.271Z",
+    "last_updated": "2026-10-04T06:11:08.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "The collection of dotfiles from r/unixporn.",
@@ -13,7 +13,7 @@
       "open_issues": 0,
       "owner": "0PandaDEV",
       "repo": "awesome-unixporn",
-      "stars": 58,
+      "stars": 57,
       "topics": [
         "awesome",
         "awesome-list",
